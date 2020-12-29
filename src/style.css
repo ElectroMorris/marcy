@@ -1,0 +1,16 @@
+.form-parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:100%;
+}
+html,body {
+    height:50%;
+    min-height:50vh;
+}
+#root{
+    height:100%;
+}
+#root{
+    height:100%;
+}
